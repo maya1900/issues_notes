@@ -45,6 +45,7 @@ jobs:
           GITHUB_LOGIN: maya1900
           GITHUB_TOKEN: ${{ secrets.BLOG_SECRET }}
         run: |
+          git pull https://$GITHUB_LOGIN:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
           git push https://$GITHUB_LOGIN:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
       - name: done
         run: echo 'done'
