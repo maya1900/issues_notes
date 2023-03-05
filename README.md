@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/maya1900//issues_notes"/>
-    <img src="https://badgen.net/badge/last-commit/2022-11-30 08:06:46"/>
+    <img src="https://badgen.net/badge/last-commit/2023-03-05 15:07:42"/>
     <img src="https://badgen.net/github/forks/maya1900//issues_notes"/>
     <img src="https://badgen.net/github/stars/maya1900//issues_notes"/>
     <img src="https://badgen.net/github/watchers/maya1900//issues_notes"/>
@@ -15,6 +15,14 @@
 <summary>good first issue	[1篇]</summary>
 
 - 2022-11-26 [test](https://github.com/maya1900/issues_notes/issues/1) 
+
+
+</details>
+            
+<details open>
+<summary>js	[1篇]</summary>
+
+- 2023-03-05 [sleep](https://github.com/maya1900/issues_notes/issues/5) 
 
 
 </details>
