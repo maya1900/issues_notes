@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/maya1900//issues_notes"/>
-    <img src="https://badgen.net/badge/last-commit/2023-03-23 06:44:42"/>
+    <img src="https://badgen.net/badge/last-commit/2023-03-23 06:46:03"/>
     <img src="https://badgen.net/github/forks/maya1900//issues_notes"/>
     <img src="https://badgen.net/github/stars/maya1900//issues_notes"/>
     <img src="https://badgen.net/github/watchers/maya1900//issues_notes"/>
@@ -20,8 +20,9 @@
 </details>
             
 <details open>
-<summary>js	[1篇]</summary>
+<summary>js	[2篇]</summary>
 
+- 2023-03-23 [一些手写代码](https://github.com/maya1900/issues_notes/issues/6) 
 - 2023-03-05 [sleep](https://github.com/maya1900/issues_notes/issues/5) 
 
 
