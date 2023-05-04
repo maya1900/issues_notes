@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/maya1900//issues_notes"/>
-    <img src="https://badgen.net/badge/last-commit/2023-03-23 06:46:03"/>
+    <img src="https://badgen.net/badge/last-commit/2023-05-04 18:03:51"/>
     <img src="https://badgen.net/github/forks/maya1900//issues_notes"/>
     <img src="https://badgen.net/github/stars/maya1900//issues_notes"/>
     <img src="https://badgen.net/github/watchers/maya1900//issues_notes"/>
@@ -41,6 +41,14 @@
 <summary>secure	[1篇]</summary>
 
 - 2022-11-30 [XSS和CSRF](https://github.com/maya1900/issues_notes/issues/2) 
+
+
+</details>
+            
+<details open>
+<summary>vue	[1篇]</summary>
+
+- 2023-05-04 [虚拟列表](https://github.com/maya1900/issues_notes/issues/7) 
 
 
 </details>
